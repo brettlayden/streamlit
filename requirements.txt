@@ -1,0 +1,6 @@
+streamlit
+exchange_calendars
+pandas
+plotly
+streamlit-calendar
+ruff
